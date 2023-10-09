@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bnanadog/homework/static/css/main.ca07701c.css",
+    "main.js": "/bnanadog/homework/static/js/main.9c2fae7e.js",
+    "static/js/787.f99c86d6.chunk.js": "/bnanadog/homework/static/js/787.f99c86d6.chunk.js",
+    "index.html": "/bnanadog/homework/index.html",
+    "main.ca07701c.css.map": "/bnanadog/homework/static/css/main.ca07701c.css.map",
+    "main.9c2fae7e.js.map": "/bnanadog/homework/static/js/main.9c2fae7e.js.map",
+    "787.f99c86d6.chunk.js.map": "/bnanadog/homework/static/js/787.f99c86d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca07701c.css",
+    "static/js/main.9c2fae7e.js"
+  ]
+}
